@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+}
+body{
+	padding: 100px;
+	background-color: #f0f0f0;
+}
+
+#wave{
+    background-color: #666666;
+    border-bottom: 3px solid #000;    
+}
+#wave-scroll{
+    background-color: #414141;
+    border-bottom: 3px solid #000;    
+}
+
+.wavesurfer-scroll-window{
+    border: 2px solid #cb2726;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;    
+}
+
+.wavesurfer-handler{
+    border-radius: 3px;
+}
